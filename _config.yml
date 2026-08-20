@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+title: "VDSC"
+description: "VDSC.io"
+
+url: "https://cventophd.github.io"
+baseurl: "/VDSC.io"
+
+github:
+  is_project_page: true
+  repository_url: "https://github.com/cventophd/VDSC.io"
