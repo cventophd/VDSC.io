@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://cventophd.github.io',
-  // If deploying to a sub-page repository like username.github.io/repo-name, 
-  // you must also add: base: '/repo-name',
+  site: 'https://github.io',
+  base: '/VDSC.io',
 });
