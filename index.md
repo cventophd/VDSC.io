@@ -8,6 +8,6 @@ layout: default
        width="300">
 </p>
 
-## Welcome to VDSC.io
+## Welcome to Vento Data Science Consulting LLC 
 
 Your website content goes here.
