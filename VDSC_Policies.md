@@ -7,7 +7,7 @@ title: About Me
 
 1. VDSC standard rate for academic collaboration includes co-authorship, as the publication value supports the professional development of its members. If this project is a work-for-hire agreement where the member will not receive authorship, VDSC rate is increased by 50% to account for the transfer of intellectual property without professional credit.
 2. No Data Analysis without a written invoice. No exceptions.
-3. Initial contact email to VDSC must be made by the project PI.
+3. Initial contact email to VDSC must be made by the project PI to chrisventodatascience@gmail.com, please do not email any of the LLC members directly with their personal emails.
 4. All projects required a sign letter by the project PI authorizing VDSC to conduct the analysis. Projects with multiple PIs or Co-PIs will be required to provide a written letter from all aforementioned individuals.
 5. IP require authorization from the specific issuing office and all project PIs and managers.
 6. HSRB and other types of identifiable data require a copy of the IRB or data sharing agreement.
