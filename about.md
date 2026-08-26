@@ -9,6 +9,8 @@ title: About Me
 
 I am a Data Scientist, Business Owner, Project Manager, and STEM Educator. While my academic background is in Bioinformatics, Neuroscience, and Ecology, my scope of practice is much wider broader then life sciences. I can analyze any type of data - from to business to physics. Technical IT data to bioinformatics data on extraterrestrial life, I can come up with a solution for it. I can also help you plan experiments and research studies, setup and create data management plans and associate systems, create scientific and business figures, consult on how to best use AI to enhance your business functions, and be a project manager for one off projects. Whatever type of orthodox or unorthodox problem you may have, I can create specific orthodox solution for it. 
 
+Please note that is my side business. I am actively working for a full time employment, and once I get that position, that will always take precedence over VDSC. As a result, I may not be able to accommodate last minute meetings or meet heavy dead lines in a short period of time. 
+
 ### Areas of Expertise
 
 - Bioinformatics 
