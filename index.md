@@ -11,3 +11,5 @@ layout: default
 ## Welcome to Vento Data Science Consulting LLC 
 
 Website under construction 
+
+[About Dr. Chris Vento](/about/)
