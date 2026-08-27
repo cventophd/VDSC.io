@@ -113,4 +113,9 @@ html<div style="overflow-x: auto;">
 |:Coordinating and Managing Specific Academic or Business Operation :|: $100 - $150:|:per hour:|
 
 |:Planning, Creating, Building, Managing , and Close Out:|: $125 - $175:|:per hour:|
+
+
+#Please Review VDSC Policies
+[VDSC Policies](/VDSC_Policies.md/)
+
 </div>
