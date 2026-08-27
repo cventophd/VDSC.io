@@ -79,8 +79,8 @@ Need something that isn't listed here? We've got you covered. Email us at **chri
 
 | Service | Charge | Rate |
 |:---|:---:|:---:|
-| Coordinating and Managing Specific Academic or Business Operations | $100–$150 | Per hour |
-| Planning, Creating, Building, Managing, and Closing Out Projects | $125–$175 | Per hour |
+| Coordinating and Managing Specific Academic or Business Operations | $$150 | Per hour |
+| Planning, Creating, Building, Managing, and Closing Out Projects | $$175 | Per hour |
 
 ---
 
