@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# Policies 
+# VDSC Policies 
 
 1. VDSC standard rate for academic collaboration includes co-authorship, as the publication value supports the professional development of its members. If this project is a work-for-hire agreement where the member will not receive authorship, VDSC rate is increased by 50% to account for the transfer of intellectual property without professional credit.
 2. No Data Analysis without a written invoice. No exceptions.
