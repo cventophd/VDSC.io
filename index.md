@@ -14,4 +14,6 @@ Website under construction
 
 [About Dr. Chris Vento](/about.md/)
 
+[Services offered by VDSC](/services.md/)
+
 [VDSC Policies](/VDSC_Policies.md/)
