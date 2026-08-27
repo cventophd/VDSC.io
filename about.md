@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About Dr. Vento
+title: About Dr. Chris Vento
 ---
 
-# About Dr. Chris Vento, Ph.D.
+# Professional Background
 
 I am a Data Scientist, Business Owner, Project Manager, and STEM Educator. While my academic background is in Bioinformatics, Neuroscience, and Ecology, my scope of practice is much wider broader then life sciences. I can analyze any type of data - from to business to physics. Technical IT data to bioinformatics data on extraterrestrial life, I can come up with a solution for it. I can also help you plan experiments and research studies, setup and create data management plans and associate systems, create scientific and business figures, consult on how to best use AI to enhance your business functions, and be a project manager for one off projects. Whatever type of orthodox or unorthodox problem you may have, I can create specific orthodox solution for it. 
 
