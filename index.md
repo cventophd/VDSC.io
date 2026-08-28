@@ -18,7 +18,7 @@ Website under construction
 
 [VDSC Policies](/VDSC_Policies.md/)
 
-#Contact Information 
+# Contact Information 
 
 Email: chrisventodatascience@gmail.com 
 
