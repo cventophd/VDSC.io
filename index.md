@@ -12,6 +12,10 @@ layout: default
 
 Website under construction 
 
+Email: chrisventodatascience@gmail.com 
+Contact: 307-306-6910
+Mailing Address: Vento Data Science Consulting LLC, 30 N. Gould St. Sheridan, Wy, 82801
+
 [About Dr. Chris Vento](/about.md/)
 
 [Services offered by VDSC](/services.md/)
