@@ -53,7 +53,7 @@ Need something that isn't listed here? We've got you covered. Email us at **chri
 
 | Service | Charge | Rate |
 |:---|:---:|:---:|
-| Neuroimaging Pre-Processing | $100–$150 | Per sample |
+| Neuroimaging Pre-Processing | $200–$250 | Per sample |
 | Neuroimaging Downstream Data Analysis | $200–$250 | Per hour |
 | fNIRS Data Analysis | $200–$250 | Per hour |
 | Physiological Data Pre-Processing and Analysis | $200–$250 | Per hour |
